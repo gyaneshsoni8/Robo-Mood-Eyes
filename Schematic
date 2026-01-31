@@ -1,0 +1,8 @@
+Component Pin Name Arduino Pin Wire Color (Standard)
+OLED Display GND GND Black
+OLED Display VCC / VDD 5V Red
+OLED Display SCK / SCL A5 (or SCL pin) Yellow
+OLED Display SDA A4 (or SDA pin) Blue
+DHT11 Sensor GND / (-) GND Black
+DHT11 Sensor VCC / (+) 5V Red
+DHT11 Sensor DATA / OUT Digital Pin 2 Green
