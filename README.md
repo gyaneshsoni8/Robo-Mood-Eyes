@@ -5,10 +5,3 @@ By processing data from a DHT11 sensor, the Arduino calculates the robot's "emot
 The Brain: Arduino reads the heat and moisture levels every 2 seconds.
 The Logic: I wrote a custom "Mood Engine" that categorizes the data into three temperature zones and a humidity threshold.
 The Face: The FluxGarage_RoboEyes library renders these emotions onto an I2C OLED display with smooth, non-blocking animations.  
-🏷️ Recommended Tags (Topics)
-Adding these "hashtags" in the About section on GitHub will help other student makers find your work:
-#arduino #robotics #stem-education #cpp #9th-grade-project #oled-display #fluxgarage
-💡 Why this is a good description:
-It explains the "Why" (giving a robot a soul).
-It explains the "How" (the brain, the logic, the face).
-It sounds professional but still reflects that it is a student project
